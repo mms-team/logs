@@ -1,0 +1,60 @@
+root@vmi647056:~# celestia light start --core.ip rpc-celestia-testnet.mms.team --p2p.network mocha
+2023-07-15T11:03:18.246+0200    INFO    node    nodebuilder/module.go:23        Accessing keyring...
+2023-07-15T11:03:18.266+0200    INFO    module/state    state/keyring.go:40     constructed keyring signer      {"backend": "test", "path": "/root/.celestia-light-mocha-3/keys", "key name": "NAME_HERE", "chain-id": "mocha-3"}
+2023-07-15T11:03:18.300+0200    INFO    badger  v2@v2.2007.4/levels.go:183      All 5 tables opened in 12ms
+
+2023-07-15T11:03:18.311+0200    INFO    badger  v2@v2.2007.4/value.go:1158      Replaying file id: 0 at offset: 305719142
+
+2023-07-15T11:03:18.311+0200    INFO    badger  v2@v2.2007.4/value.go:1178      Replay took: 17.761µs
+
+2023/07/15 11:03:18 failed to sufficiently increase receive buffer size (was: 208 kiB, wanted: 2048 kiB, got: 416 kiB). See https://github.com/quic-go/quic-go/wiki/UDP-Receive-Buffer-Size for details.
+2023-07-15T11:03:18.443+0200    INFO    module/header   header/config.go:58     No trusted peers in config, initializing with default bootstrappers as trusted peers
+2023-07-15T11:03:18.457+0200    INFO    header/p2p      p2p/exchange.go:77      client: starting client {"protocol ID": "/mocha-3/header-ex/v0.0.3"}
+2023-07-15T11:03:18.458+0200    INFO    fraudserv       fraudserv/helpers.go:29 joining topic   {"id": "/mocha-3/fraud-sub/badencoding/v0.0.1"}
+2023-07-15T11:03:18.458+0200    INFO    fraudserv       fraudserv/service.go:97 starting fraud proof service    {"protocol ID": "/mocha-3/fraud/v0.0.1"}
+2023-07-15T11:03:18.462+0200    INFO    header/store    store/store.go:176      loaded head     {"height": 67705, "hash": "84CAA9AA0533166ED3A877FD0D5C6A65E1FD7D364341C3ABA8E43D52A70552CF"}
+2023-07-15T11:03:18.462+0200    INFO    header/p2p      p2p/subscriber.go:40    joining topic   {"topic ID": "/mocha-3/header-sub/v0.0.1"}
+2023-07-15T11:03:18.558+0200    INFO    canonical-log   noise/transport.go:60   CANONICAL_PEER_STATUS: peer= addr=/ip4/51.15.246.91/tcp/36308 sample_rate=100 handshake_failure="noise" err="error reading handshake message: read tcp4 62.171.128.14:2121->51.15.246.91:36308: read: connection reset by peer"
+2023-07-15T11:03:18.570+0200    INFO    header/sync     sync/sync_head.go:133   new network head        {"height": 67804, "hash": "1313964E91DE2B9FBF1D712C0433A6266726CE3F15D6CC7EF25B15FD37548ABD"}
+2023-07-15T11:03:18.570+0200    INFO    header/sync     sync/sync.go:202        syncing headers {"from": 67706, "to": 67804}
+2023-07-15T11:03:18.573+0200    INFO    header/p2p      p2p/server.go:65        server: listening for inbound header requests   {"protocol ID": "/mocha-3/header-ex/v0.0.3"}
+2023-07-15T11:03:18.575+0200    INFO    das     das/daser.go:105        starting DASer from checkpoint: SampleFrom: 67706, NetworkHead: 67705
+2023-07-15T11:03:18.575+0200    INFO    rpc     rpc/server.go:86        server started  {"listening on": "0.0.0.0:26658"}
+2023-07-15T11:03:18.575+0200    INFO    gateway gateway/server.go:51    server started  {"listening on": "0.0.0.0:27659"}
+2023-07-15T11:03:18.575+0200    INFO    node    nodebuilder/node.go:109
+
+/_____/  /_____/  /_____/  /_____/  /_____/ 
+
+Started celestia DA node 
+node type:      light
+network:        mocha-3
+
+/_____/  /_____/  /_____/  /_____/  /_____/ 
+
+The p2p host is listening on:
+*  /ip4/62.171.128.14/tcp/2121/p2p/12D3KooWQt7DnvwmNLTNgyywTMHLLwy2mhzSFKZVMihvpTiBZ9vN
+*  /ip4/62.171.128.14/udp/2121/quic-v1/p2p/12D3KooWQt7DnvwmNLTNgyywTMHLLwy2mhzSFKZVMihvpTiBZ9vN
+
+2023-07-15T11:03:18.723+0200    INFO    header/store    store/store.go:360      new head        {"height": 67803, "hash": "9475BE71A62BFBA47AD555B0D3EA0D8EFD252AFC2687B907DFDEBC5004914491"}
+2023-07-15T11:03:18.723+0200    INFO    header/store    store/store.go:360      new head        {"height": 67804, "hash": "1313964E91DE2B9FBF1D712C0433A6266726CE3F15D6CC7EF25B15FD37548ABD"}
+2023-07-15T11:03:18.723+0200    INFO    header/sync     sync/sync.go:220        finished syncing headers        {"from": 67706, "to": 67804, "elapsed time": 0.152863162}
+2023-07-15T11:03:19.457+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:20.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:21.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:22.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:23.457+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:24.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:25.039+0200    INFO    header/store    store/store.go:360      new head        {"height": 67805, "hash": "4098527833C4A955852E95365B8228A29329D07B5DEDD5B4ED43549F2A2CD66A"}
+2023-07-15T11:03:25.039+0200    INFO    das     das/worker.go:148       sampled header  {"type": "recent", "height": 67805, "hash": "4098527833C4A955852E95365B8228A29329D07B5DEDD5B4ED43549F2A2CD66A", "square width": 2, "data root": "3D96B7D238E7E0456F6AF8E7CDF0A67BD6CF9C2089ECB559C659DCAA1F880353", "finished (s)": 0.000007651}
+2023-07-15T11:03:25.040+0200    INFO    das     das/worker.go:88        finished sampling headers       {"type": "catchup", "from": 67706, "to": 67805, "errors": 0, "finished (s)": 0.001015073}
+2023-07-15T11:03:25.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:26.457+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:27.458+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+2023-07-15T11:03:28.423+0200    INFO    basichost       basic/natmgr.go:112     DiscoverNAT error:no NAT found
+2023-07-15T11:03:28.457+0200    INFO    share/discovery discovery/discovery.go:254      discovering peers       {"want": 5}
+^C2023-07-15T11:03:28.539+0200  INFO    gateway gateway/server.go:69    server stopped
+2023-07-15T11:03:28.539+0200    INFO    rpc     rpc/server.go:104       server stopped
+2023-07-15T11:03:28.541+0200    INFO    das     das/store.go:59 stored checkpoint to disk: SampleFrom: 67806, NetworkHead: 67805
+2023-07-15T11:03:28.542+0200    INFO    das     das/store.go:59 stored checkpoint to disk: SampleFrom: 67806, NetworkHead: 67805
+2023-07-15T11:03:28.542+0200    INFO    header/p2p      p2p/server.go:74        server: stopping server
+2023-07-15T11:03:28.586+0200    INFO    badger  v2@v2.2007.4/db.go:1027 Storing value log head: {Fid:0 Len:33 Offset:306676744}
