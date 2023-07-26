@@ -1,0 +1,149 @@
+[08:01:16.953] ⚛
+[08:01:17.887] Loaded Archway
+[08:01:17.926] Bot address is archway17j4r042dcvqpqdzxnw8eky02zv6gslrxkrvqep
+[08:01:18.046] Using REST URL https://lcd-archway.whispernode.com
+[08:01:18.046] Running with options: {
+  batchPageSize: 100,
+  batchQueries: 50,
+  batchTxs: 69,
+  delegationsTimeout: 20000,
+  queryTimeout: 120000,
+  queryThrottle: 100,
+  gasModifier: 1.1,
+  correctSlip44: true,
+  slip44: 118,
+  delegatorTimeout: 120000
+}
+[08:01:18.083] Bot balance is 16024031825165748940 aarch
+[08:01:18.083] Finding delegators...
+[08:01:18.266] ...batch 1
+[08:01:18.458] ...batch 2
+[08:01:18.559] Checking 148 delegators for grants...
+[08:01:18.602] ...batch 1
+[08:01:18.702] archway1ksm9emfgpj97vfkqd5t6rd59l298ycr2k50kaz Using GenericAuthorization, allowed
+[08:01:18.702] Found 6 addresses with valid grants...
+[08:01:18.702] Calculating and autostaking in batches of 69
+[08:01:18.788] archway1g8yq39gcysxam0hzw5qqwj67p8fce0868q692m Can autostake 337142372167404260 aarch
+[08:01:18.797] archway1jyg578qygg92c4x0gmst7cgqpkch64ltgalq9e Can autostake 1253256705250059950 aarch
+[08:01:18.802] archway1uc93zwx6f00vpplsd8ssatwywfaq5ewmqd3jm0 Can autostake 168120036588887540 aarch
+[08:01:18.806] archway1lz3h6yp0k8khmuqf0r388sk0drtsf2plaj9alv Can autostake 6160919878999459800 aarch
+[08:01:18.810] archway1ksm9emfgpj97vfkqd5t6rd59l298ycr2k50kaz Can autostake 331094134884123585 aarch
+[08:01:18.819] archway1nzdp8mkqxk37hulrut49atsjjdmhjwx0te73f2 Can autostake 309339926384801700 aarch
+[08:01:18.819] Sending batch 1
+[08:01:18.936] Failed 6 messages: rpc error: code = Unknown desc = recovered: runtime error: invalid memory address or nil pointer dereference
+stack:
+goroutine 9675021386 [running]:
+runtime/debug.Stack()
+        runtime/debug/stack.go:24 +0x65
+github.com/cosmos/cosmos-sdk/baseapp.newDefaultRecoveryMiddleware.func1({0x1bbcd60, 0x358fa10})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/recovery.go:71 +0x27
+github.com/cosmos/cosmos-sdk/baseapp.newRecoveryMiddleware.func1({0x1bbcd60?, 0x358fa10?})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/recovery.go:39 +0x30
+github.com/cosmos/cosmos-sdk/baseapp.processRecovery({0x1bbcd60, 0x358fa10}, 0xc070c8c900?)
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/recovery.go:28 +0x37
+github.com/cosmos/cosmos-sdk/baseapp.processRecovery({0x1bbcd60, 0x358fa10}, 0x2745390?)
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/recovery.go:33 +0x5e
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).runTx.func1()
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/baseapp.go:632 +0x110
+panic({0x1bbcd60, 0x358fa10})
+        runtime/panic.go:884 +0x212
+github.com/cosmos/cosmos-sdk/x/auth/ante.SetUpContextDecorator.AnteHandle.func1()
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/setup.go:57 +0x1fa
+panic({0x1bbcd60, 0x358fa10})
+        runtime/panic.go:884 +0x212
+github.com/archway-network/archway/x/rewards/ante.GetContractFlatFees({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/archway-network/archway/x/rewards/ante/ante_utils.go:51 +0x499
+github.com/archway-network/archway/x/rewards/ante.MinFeeDecorator.AnteHandle({{_, _}, {_, _}}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, ...}, ...}, ...)
+        github.com/archway-network/archway/x/rewards/ante/min_cons_fee.go:44 +0x67b
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.ConsumeTxSizeGasDecorator.AnteHandle({{_, _}}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/basic.go:142 +0x3a6
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.ValidateMemoDecorator.AnteHandle({{_, _}}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/basic.go:66 +0x2ee
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.TxTimeoutHeightDecorator.AnteHandle({}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/basic.go:205 +0x28e
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.ValidateBasicDecorator.AnteHandle({}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/basic.go:34 +0x1ce
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.MempoolFeeDecorator.AnteHandle({}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/fee.go:54 +0x286
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.RejectExtensionOptionsDecorator.AnteHandle({}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/ext.go:35 +0x12e
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/CosmWasm/wasmd/x/wasm/keeper.CountTXDecorator.AnteHandle({{_, _}}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, ...}, ...}, ...)
+        github.com/CosmWasm/wasmd@v0.32.0/x/wasm/keeper/ante.go:43 +0x2f3
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/CosmWasm/wasmd/x/wasm/keeper.LimitSimulationGasDecorator.AnteHandle({_}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/CosmWasm/wasmd@v0.32.0/x/wasm/keeper/ante.go:97 +0x270
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/x/auth/ante.SetUpContextDecorator.AnteHandle({}, {{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/ante/setup.go:62 +0x66f
+github.com/cosmos/cosmos-sdk/types.ChainAnteDecorators.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070c9aa80}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/handler.go:40 +0x158
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).runTx(0xc0005d1a40, 0x2, {0xc070c80a00, 0x4fa, 0x500})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/baseapp.go:684 +0x779
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).Simulate(0x415707?, {0xc070c80a00?, 0x1c895c0?, 0xc047ed2301?})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/test_helpers.go:23 +0x2c
+github.com/cosmos/cosmos-sdk/x/auth/tx.txServer.Simulate({{{0x0, 0x0, 0x0}, {0x27552a0, 0xc000e9c040}, {0xc001299490, 0x9}, {0x273c5b8, 0xc000e46d00}, {0x274ba78, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/x/auth/tx/service.go:120 +0x12e
+github.com/cosmos/cosmos-sdk/types/tx._Service_Simulate_Handler({0x1d2c860?, 0xc0007cc9c0}, {0x2735e98, 0xc07e28be90}, 0xc0b5f15130, 0x0)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/tx/service.pb.go:910 +0x170
+github.com/cosmos/cosmos-sdk/baseapp.(*GRPCQueryRouter).RegisterService.func1({{0x2735e28, 0xc000056060}, {0x2745390, 0xc070861b40}, {{0xb, 0x0}, {0xc029140cd1, 0x9}, 0x516f8, {0x1648a1e3, ...}, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/grpcrouter.go:85 +0x230
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).handleQueryGRPC(0xc0005d1a40, 0xc017112000, {{0xc070c80500, 0x4fd, 0x4fd}, {0x1e68e82, 0x23}, 0x516f8, 0x0})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/abci.go:601 +0x1cf
+github.com/cosmos/cosmos-sdk/baseapp.(*BaseApp).Query(0xc0005d1a40, {{0xc070c80500, 0x4fd, 0x4fd}, {0x1e68e82, 0x23}, 0x516f8, 0x0})
+        github.com/cosmos/cosmos-sdk@v0.45.16/baseapp/abci.go:445 +0x6ee
+github.com/tendermint/tendermint/abci/client.(*localClient).QuerySync(0xc000ded0e0, {{0xc070c80500, 0x4fd, 0x4fd}, {0x1e68e82, 0x23}, 0x0, 0x0})
+        github.com/tendermint/tendermint@v0.34.27/abci/client/local_client.go:256 +0x171
+github.com/tendermint/tendermint/proxy.(*appConnQuery).QuerySync(0x700?, {{0xc070c80500, 0x4fd, 0x4fd}, {0x1e68e82, 0x23}, 0x0, 0x0})
+        github.com/tendermint/tendermint@v0.34.27/proxy/app_conn.go:159 +0x6e
+github.com/tendermint/tendermint/rpc/core.ABCIQuery(0xe6ac0?, {0x1e68e82?, 0x1e65f41?}, {0xc070c80500?, 0xc070c92700?, 0xc00cc626d0?}, 0x522afb?, 0x10?)
+        github.com/tendermint/tendermint@v0.34.27/rpc/core/abci.go:20 +0xa6
+github.com/tendermint/tendermint/rpc/client/local.(*Local).ABCIQueryWithOptions(0x4af95f?, {0x4153bf?, 0x59aff?}, {0x1e68e82?, 0xe6ac001e65f41?}, {0xc070c80500?, 0x100c0885ddbc0?, 0xc070609920?}, {0x0, 0x0})
+        github.com/tendermint/tendermint@v0.34.27/rpc/client/local/local.go:87 +0x45
+github.com/cosmos/cosmos-sdk/client.Context.queryABCI({{0x0, 0x0, 0x0}, {0x27552a0, 0xc000e9c040}, {0xc01978e010, 0x9}, {0x273c5b8, 0xc000e46d00}, {0x274ba78, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/client/query.go:94 +0x1ab
+github.com/cosmos/cosmos-sdk/client.Context.QueryABCI(...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/client/query.go:57
+github.com/cosmos/cosmos-sdk/client.Context.Invoke({{0x0, 0x0, 0x0}, {0x27552a0, 0xc000e9c040}, {0xc01978e010, 0x9}, {0x273c5b8, 0xc000e46d00}, {0x274ba78, ...}, ...}, ...)
+        github.com/cosmos/cosmos-sdk@v0.45.16/client/grpc_query.go:81 +0x59d
+github.com/cosmos/cosmos-sdk/types/tx.(*serviceClient).Simulate(0xc019f296b0, {0x2735e98, 0xc0f020a9f0}, 0x1bbc100?, {0xc082c30ea0, 0x2, 0x2})
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/tx/service.pb.go:821 +0xce
+github.com/cosmos/cosmos-sdk/types/tx.request_Service_Simulate_0({0x2735e98, 0xc0f020a9f0}, {0x2739360, 0xc001021860}, {0x2738760, 0xc019f296b0}, 0xc070803500, 0x4?)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/tx/service.pb.gw.go:46 +0x283
+github.com/cosmos/cosmos-sdk/types/tx.RegisterServiceHandlerClient.func1({0x2733fc0, 0xc09c7be4c8}, 0xc070803500, 0xc000e06240?)
+        github.com/cosmos/cosmos-sdk@v0.45.16/types/tx/service.pb.gw.go:420 +0x16e
+github.com/grpc-ecosystem/grpc-gateway/runtime.(*ServeMux).ServeHTTP(0xc00ce84000, {0x2733fc0, 0xc09c7be4c8}, 0xc070803500)
+        github.com/grpc-ecosystem/grpc-gateway@v1.16.0/runtime/mux.go:240 +0xcd6
+github.com/gorilla/mux.(*Router).ServeHTTP(0xc019c363c0, {0x2733fc0, 0xc09c7be4c8}, 0xc070803300)
+        github.com/gorilla/mux@v1.8.0/mux.go:210 +0x1cf
+github.com/tendermint/tendermint/rpc/jsonrpc/server.maxBytesHandler.ServeHTTP({{0x271a0c0?, 0xc019c363c0?}, 0x415707?}, {0x2733fc0?, 0xc09c7be4c8}, 0xc070803300)
+        github.com/tendermint/tendermint@v0.34.27/rpc/jsonrpc/server/http_server.go:256 +0x124
+github.com/tendermint/tendermint/rpc/jsonrpc/server.RecoverAndLogHandler.func1({0x2734620?, 0xc0708001c0}, 0xc070803300)
+        github.com/tendermint/tendermint@v0.34.27/rpc/jsonrpc/server/http_server.go:229 +0x37f
+net/http.HandlerFunc.ServeHTTP(0x0?, {0x2734620?, 0xc0708001c0?}, 0x95b914?)
+        net/http/server.go:2109 +0x2f
+net/http.serverHandler.ServeHTTP({0x2721550?}, {0x2734620, 0xc0708001c0}, 0xc070803300)
+        net/http/server.go:2947 +0x30c
+net/http.(*conn).serve(0xc0b0e223c0, {0x2735e98, 0xc00ec8eab0})
+        net/http/server.go:1991 +0x607
+created by net/http.(*Server).Serve
+        net/http/server.go:3102 +0x4db
+: panic [cosmos/cosmos-sdk@v0.45.16/baseapp/recovery.go:69] With gas wanted: '0' and gas used: '6687' : unknown request
+[08:01:18.937] Sent 0/1 transactions
+[08:01:18.937] TX 1: Failed 6 messages: rpc error: code = Unknown desc = recovered: runtime error: invalid memory address or nil pointer dereference
+stack:
