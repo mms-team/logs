@@ -1,0 +1,500 @@
+{"level":"info","time":"2023-08-25T11:13:32+02:00","message":"starting initially"}
+{"level":"info","pId":360498,"time":"2023-08-25T11:13:32+02:00","message":"initial process started"}
+{"level":"error","time":"2023-08-25T11:13:32+02:00","message":"failed to query height. Try again in 20s ... (1/10)"}
+{"level":"error","time":"2023-08-25T11:13:52+02:00","message":"failed to query height. Try again in 20s ... (2/10)"}
+{"level":"info","node":409,"pool":45385,"max-height":153385,"min-height":99385,"time":"2023-08-25T11:14:12+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:14:12+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:14:12+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":810,"pool":45385,"max-height":153385,"min-height":99385,"time":"2023-08-25T11:14:22+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:14:22+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:14:22+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":1180,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:14:32+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:14:32+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:14:32+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":1526,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:14:42+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:14:42+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:14:42+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":1867,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:14:52+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:14:52+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:14:52+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":2210,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:02+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:02+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:02+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":2545,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:12+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:12+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:12+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":2883,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:22+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:22+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:22+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":3203,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:32+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:32+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:32+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":3550,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:42+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:42+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:42+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":3897,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:15:53+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:15:53+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:15:53+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":4250,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:16:03+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:03+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:03+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":4589,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:16:13+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:13+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:13+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":4928,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:16:23+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:23+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:23+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":5260,"pool":45535,"max-height":153535,"min-height":99535,"time":"2023-08-25T11:16:33+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:33+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:33+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":5589,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:16:43+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:43+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:43+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":5940,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:16:53+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:16:53+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:16:53+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":6295,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:03+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:03+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:03+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":6636,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:13+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:13+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:13+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":6982,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:23+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:23+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:23+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":7318,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:33+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:33+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:33+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":7662,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:43+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:43+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:43+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":8003,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:17:53+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:17:53+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:17:53+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":8350,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:18:03+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:03+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:03+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":8710,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:18:13+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:13+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:13+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":9058,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:18:23+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:23+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:23+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":9410,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:18:33+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:33+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:33+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":9752,"pool":45685,"max-height":153685,"min-height":99685,"time":"2023-08-25T11:18:43+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:43+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:43+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":10092,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:18:53+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:18:53+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:18:53+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":10423,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:03+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:03+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:03+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":10756,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:13+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:13+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:13+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":11102,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:23+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:23+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:23+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":11449,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:33+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:33+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:33+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":11794,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:44+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:44+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:44+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":12116,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:19:54+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:19:54+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:19:54+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":12449,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:04+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:04+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:04+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":12791,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:14+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:14+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:14+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":13127,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:24+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:24+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:24+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":13466,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:34+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:34+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:34+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":13810,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:44+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:44+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:44+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":14152,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:20:54+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:20:54+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:20:54+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":14495,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:04+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:04+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:04+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":14834,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:14+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:14+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:14+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":15170,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:24+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:24+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:24+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":15505,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:34+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:34+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:34+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":15854,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:44+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:44+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:44+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":16206,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:21:54+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:21:54+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:21:54+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":16544,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:04+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:04+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:04+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":16890,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:14+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:14+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:14+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":17224,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:24+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:24+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:24+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":17558,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:34+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:34+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:34+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":17892,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:44+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:44+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:44+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":18240,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:22:54+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:22:54+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:22:54+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":18581,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:04+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:04+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:04+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":18926,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:14+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:14+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:14+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":19250,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:24+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:24+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:24+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":19580,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:34+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:34+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:34+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":19907,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:45+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:45+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:45+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":20230,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:23:55+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:23:55+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:23:55+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":20561,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:05+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:05+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:05+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":20897,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:15+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:15+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:15+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":21233,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:25+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:25+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:25+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":21571,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:35+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:35+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:35+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":21919,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:45+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:45+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:45+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":22260,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:24:55+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:24:55+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:24:55+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":22596,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:25:05+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:05+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:05+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":22919,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:25:15+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:15+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:15+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":23254,"pool":45835,"max-height":153835,"min-height":99835,"time":"2023-08-25T11:25:25+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:25+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:25+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":23593,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:25:35+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:35+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:35+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":23941,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:25:45+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:45+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:45+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":24281,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:25:55+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:25:55+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:25:55+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":24621,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:05+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:05+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:05+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":24958,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:15+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:15+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:15+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":25293,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:25+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:25+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:25+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":25631,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:35+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:35+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:35+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":25971,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:45+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:45+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:45+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":26309,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:26:55+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:26:55+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:26:55+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":26651,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:27:05+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:05+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:05+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":27004,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:27:15+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:15+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:15+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":27341,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:27:25+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:25+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:25+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":27669,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:27:35+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:35+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:35+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":28011,"pool":45985,"max-height":153985,"min-height":99985,"time":"2023-08-25T11:27:45+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:45+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:45+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":28351,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:27:56+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:27:56+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:27:56+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":28689,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:06+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:06+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:06+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":29026,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:16+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:16+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:16+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":29363,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:26+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:26+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:26+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":29704,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:36+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:36+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:36+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":30040,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:46+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:46+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:46+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":30376,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:28:56+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:28:56+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:28:56+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":30707,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:06+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:06+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:06+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":31042,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:16+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:16+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:16+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":31377,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:26+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:26+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:26+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":31713,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:36+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:36+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:36+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":32043,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:46+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:46+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:46+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":32365,"pool":46135,"max-height":154135,"min-height":100135,"time":"2023-08-25T11:29:56+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:29:56+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:29:56+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":32710,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:06+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:06+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:06+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":33050,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:16+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:16+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:16+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":33380,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:26+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:26+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:26+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":33714,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:36+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:36+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:36+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":34046,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:46+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:46+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:46+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":34380,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:30:56+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:30:56+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:30:56+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":34711,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:06+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:06+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:06+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":35048,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:16+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:16+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:16+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":35388,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:26+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:26+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:26+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":35734,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:36+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:36+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:36+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":36075,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:47+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:47+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:47+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":36408,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:31:57+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:31:57+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:31:57+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":36735,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:32:07+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:07+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:07+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":37073,"pool":46285,"max-height":154285,"min-height":100285,"time":"2023-08-25T11:32:17+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:17+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:17+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":37420,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:32:27+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:27+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:27+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":37764,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:32:37+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:37+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:37+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":38106,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:32:47+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:47+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:47+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":38442,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:32:57+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:32:57+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:32:57+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":38770,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:07+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:07+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:07+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":39106,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:17+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:17+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:17+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":39441,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:27+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:27+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:27+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":39774,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:37+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:37+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:37+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":40117,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:47+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:47+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:47+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":40457,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:33:57+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:33:57+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:33:57+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":40790,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:07+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:07+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:07+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":41121,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:17+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:17+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:17+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":41450,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:27+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:27+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:27+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":41790,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:37+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:37+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:37+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":42135,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:47+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:47+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:47+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":42474,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:34:57+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:34:57+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:34:57+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":42791,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:07+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:07+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:07+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43060,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:17+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:17+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:17+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43266,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:27+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:27+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:27+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43450,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:37+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:37+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:37+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43605,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:48+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:48+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:48+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43753,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:35:58+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:35:58+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:35:58+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":43902,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:08+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:08+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:08+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44048,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:18+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:18+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:18+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44211,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:28+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:28+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:28+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44362,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:38+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:38+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:38+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44503,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:48+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:48+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:48+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44649,"pool":46435,"max-height":154435,"min-height":100435,"time":"2023-08-25T11:36:58+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:36:58+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:36:58+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44790,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:08+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:08+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:08+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":44936,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:18+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:18+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:18+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45082,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:28+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:28+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:28+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45226,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:38+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:38+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:38+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45369,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:48+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:48+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:48+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45519,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:37:58+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:37:58+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:37:58+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45667,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:08+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:08+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:08+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45817,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:18+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:18+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:18+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":45965,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:28+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:28+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:28+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":46112,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:38+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:38+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:38+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":46256,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:48+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:48+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:48+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":46402,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:38:58+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:38:58+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:38:58+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":46549,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:39:08+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:08+02:00","message":"keeping NormalMode"}
+{"level":"info","time":"2023-08-25T11:39:08+02:00","message":"node has not reached pool height yet, can not use it as data source"}
+{"level":"info","node":46699,"pool":46558,"max-height":154558,"min-height":100558,"time":"2023-08-25T11:39:18+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:18+02:00","message":"keeping NormalMode"}
+{"level":"info","node":46863,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:39:28+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:28+02:00","message":"keeping NormalMode"}
+{"level":"info","node":46979,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:39:38+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:38+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47069,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:39:49+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:49+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47163,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:39:59+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:39:59+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47329,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:09+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:09+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47471,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:19+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:19+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47631,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:29+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:29+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47752,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:39+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:39+02:00","message":"keeping NormalMode"}
+{"level":"info","node":47883,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:49+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:49+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48087,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:40:59+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:40:59+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48263,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:41:09+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:09+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48367,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:41:19+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:19+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48472,"pool":46708,"max-height":154708,"min-height":100708,"time":"2023-08-25T11:41:29+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:29+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48671,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:41:39+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:39+02:00","message":"keeping NormalMode"}
+{"level":"info","node":48900,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:41:49+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:49+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49010,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:41:59+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:41:59+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49117,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:09+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:09+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49281,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:19+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:19+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49513,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:29+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:29+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49646,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:39+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:39+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49755,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:49+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:49+02:00","message":"keeping NormalMode"}
+{"level":"info","node":49922,"pool":46858,"max-height":154858,"min-height":100858,"time":"2023-08-25T11:42:59+02:00","message":"fetched heights successfully"}
+{"level":"info","time":"2023-08-25T11:42:59+02:00","message":"keeping NormalMode"}

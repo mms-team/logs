@@ -1,0 +1,8 @@
+{"level":"info","time":"2023-08-25T11:11:51+02:00","message":"starting initially"}
+{"level":"info","pId":357331,"time":"2023-08-25T11:11:51+02:00","message":"initial process started"}
+{"level":"error","time":"2023-08-25T11:11:51+02:00","message":"failed to query height. Try again in 20s ... (1/10)"}
+{"level":"error","time":"2023-08-25T11:12:11+02:00","message":"failed to query height. Try again in 20s ... (2/10)"}
+{"level":"error","time":"2023-08-25T11:12:31+02:00","message":"failed to query height. Try again in 20s ... (3/10)"}
+{"level":"error","time":"2023-08-25T11:12:51+02:00","message":"failed to query height. Try again in 20s ... (4/10)"}
+{"level":"error","time":"2023-08-25T11:13:11+02:00","message":"failed to query height. Try again in 20s ... (5/10)"}
+{"level":"error","time":"2023-08-25T11:13:31+02:00","message":"failed to query height. Try again in 20s ... (6/10)"}
